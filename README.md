@@ -1,6 +1,6 @@
-# **World Wide Countries 👀** 
+# **World Wide Countries 🔎** 
 -----------------------------
-## Collecting of World Wide Countries Data
+## Collecting of World Wide Countries Data 👀
 
 by using this web service https://restcountries.com/v3.1/all and I've collecting some information for all countries data including country name , alpha3Code, area, region, population, main currency, main language , start week , country capital and then save this data in a CSV file (Counteries.csv) .
 
